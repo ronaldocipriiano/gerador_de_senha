@@ -24,5 +24,5 @@ Um gerador de senha simples desenvolvido em HTML, CSS e JavaScript. Através do 
 [GitHub - ronaldocipriiano](https://github.com/ronaldocipriiano/)
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
